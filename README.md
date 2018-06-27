@@ -1,0 +1,1 @@
+This project is converting Big Image to Tiles(as much as small depends on pixels) in JAVA.
